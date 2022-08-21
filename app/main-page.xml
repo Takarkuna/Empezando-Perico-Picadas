@@ -5,7 +5,7 @@
           <TabView id="tabViewContainer">
     <TabViewItem title="Inicio" iconSource="res://icon">
         <StackLayout>
-       <Image src="~/Perico2.jpg" stretch="none" />
+    
         </StackLayout>
     </TabViewItem>
     <TabViewItem title="Second Tab" iconSource="res://icon">
