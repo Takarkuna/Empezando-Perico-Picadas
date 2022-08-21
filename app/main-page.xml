@@ -5,8 +5,7 @@
           <TabView id="tabViewContainer">
     <TabViewItem title="Inicio" iconSource="res://icon">
         <StackLayout>
-    
-        </StackLayout>
+            </StackLayout>
     </TabViewItem>
     <TabViewItem title="Second Tab" iconSource="res://icon">
         <StackLayout>
