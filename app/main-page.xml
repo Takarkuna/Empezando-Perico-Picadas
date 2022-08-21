@@ -9,7 +9,7 @@
             <TextField hint="Usuario" class="-border"/>
              <TextField hint="Contraseña" class="-border"/>
              <Label class="text-primary" text="Recuperar Contraseña"></Label>
-             
+              <Button class="-active -rounded-lg" text="Ingresar" backgroundColor="#008800" width="180"></Button>
                  </StackLayout>
                  </TabViewItem>
                  
