@@ -4,10 +4,11 @@
 Button.-primary {
   font-size: 20;
 }
+
 .home-panel {
-  vertical-align: down;
+  vertical-align: center;
   font-size: 12;
 }
 label {
   margin: 16;
-  }
+}
