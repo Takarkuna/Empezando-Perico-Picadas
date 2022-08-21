@@ -6,8 +6,13 @@
     <TabViewItem title="Inicio" iconSource="res://icon">
         <StackLayout>
             <Image src="https://raw.githubusercontent.com/Takarkuna/Empezando-Perico-Picadas/main/app/Perico2.jpg" stretch="aspectFit" width="250" class="m-b-10" ></Image>
-            </StackLayout>
-    </TabViewItem>
+            <TextField hint="Usuario" class="-border"/>
+             <TextField hint="Contraseña" class="-border"/>
+             <Label class="text-primary" text="Recuperar Contraseña"></Label>
+             
+                 </StackLayout>
+                 </TabViewItem>
+                 
     <TabViewItem title="Registro">
         <StackLayout>
             <Image src="https://raw.githubusercontent.com/Takarkuna/Empezando-Perico-Picadas/main/app/Perico2.jpg" stretch="aspectFit" width="100" class="m-b-10" ></Image>
