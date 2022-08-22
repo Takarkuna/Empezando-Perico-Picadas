@@ -10,7 +10,7 @@
              <Label class="text-primary h5" text="Recuperar Contraseña"></Label>
              <StackLayout class=" m-20"></StackLayout>
               <Button class="-active h3" text="Ingresar" backgroundColor="#2ca52c" width="180" tap= "onTap"></Button>
-              <StackLayout class="m-20 m-20 m-20"></StackLayout>
+             
                  <StackLayout class="hr m-10"></StackLayout>
                <StackLayout class="hr m-10"></StackLayout>
                 <Label class="text-primary font-weight-bold h3" text="Registrarse"></Label>
