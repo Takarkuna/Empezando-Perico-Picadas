@@ -12,3 +12,6 @@ Button.-primary {
 label {
   margin: 16;
 }
+.nt-form {
+  vertical-align: 'up';
+}

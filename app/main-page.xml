@@ -11,8 +11,7 @@
              <Label class="text-primary h5" text="Recuperar Contraseña"></Label>
              <StackLayout class=" m-20"></StackLayout>
               <Button class="-active h3" text="Ingresar" backgroundColor="#2ca52c" width="180" tap= "onTap"></Button>
-             
-                 <StackLayout class="hr m-10"></StackLayout>
+               <StackLayout class="hr m-10"></StackLayout>
                <StackLayout class="hr m-10"></StackLayout>
                 <Label class="text-primary font-weight-bold h3" text="Registrarse"></Label>
                  </StackLayout>
@@ -21,8 +20,9 @@
     <TabViewItem title="Registro">
        <ScrollView>
         <StackLayout>
-          <StackLayout class="m-20"></StackLayout>
+          <StackLayout class="nt-form"></StackLayout>
             <Image src="https://raw.githubusercontent.com/Takarkuna/Empezando-Perico-Picadas/main/app/Perico2.jpg" stretch="aspectFit" width="150" class="m-b-10" ></Image>
+             <Label class="text-center font-weight-bold h2" text="REGISTRO"></Label>
             <TextField hint="Nombre" class="-border" backgroundColor= "#e0e4e0"/>
              <TextField hint="Apellido" class="-border" backgroundColor= "#e0e4e0"/>
              <TextField hint="Documento de Identidad" class="-border" backgroundColor= "#e0e4e0"/>
@@ -42,7 +42,7 @@
             <Image src="https://raw.githubusercontent.com/Takarkuna/Empezando-Perico-Picadas/main/app/Perico2.jpg" stretch="aspectFit" width="250" class="m-b-10" ></Image>
         </StackLayout>
       </TabViewItem>
-  <TabViewItem title="Administrador">
+  <TabViewItem title="Nueva Contraseña">
       <StackLayout>
         <StackLayout class="m-20"></StackLayout>
             <Image src="https://raw.githubusercontent.com/Takarkuna/Empezando-Perico-Picadas/main/app/Perico2.jpg" stretch="aspectFit" width="250" class="m-b-10" ></Image>
