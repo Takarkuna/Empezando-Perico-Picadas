@@ -14,8 +14,9 @@
                  </TabViewItem>
                  
     <TabViewItem title="Registro">
+       <ScrollView>
         <StackLayout>
-            <Image src="https://raw.githubusercontent.com/Takarkuna/Empezando-Perico-Picadas/main/app/Perico2.jpg" stretch="aspectFit" width="100" class="m-b-10" ></Image>
+            <Image src="https://raw.githubusercontent.com/Takarkuna/Empezando-Perico-Picadas/main/app/Perico2.jpg" stretch="aspectFit" width="150" class="m-b-10" ></Image>
             <TextField hint="Nombre" class="-border" backgroundColor= "#e0e4e0"/>
              <TextField hint="Apellido" class="-border" backgroundColor= "#e0e4e0"/>
              <TextField hint="Documento de Identidad" class="-border" backgroundColor= "#e0e4e0"/>
@@ -25,8 +26,9 @@
              <TextField hint="Correo Electrónico" class="-border" backgroundColor= "#e0e4e0"/>
              <TextField hint="Usuario" class="-border" backgroundColor= "#e0e4e0"/>
              <TextField hint="Contraseña" class="-border" backgroundColor= "#e0e4e0"/>
-             
+              <Button class="-active h3" text="Registrarse" backgroundColor="#2ca52c" width="180" tap= "onTap"></Button>
         </StackLayout>
+        </ScrollView>
     </TabViewItem>
       <TabViewItem title="Recuperar Contraseña">
         <StackLayout>
