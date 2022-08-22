@@ -55,8 +55,7 @@
             <Label class="text-center font-weight-bold h2" text="CREAR NUEVA CONTRASEÑA"></Label>
              <TextField hint="Nueva Contraseña" class="-border" backgroundColor= "#e0e4e0"/>
              <TextField hint="Confirmar Contraseña" class="-border" backgroundColor= "#e0e4e0"/>
-             <Label class="text-primary h5" text="Recuperar Contraseña"></Label>
-             <StackLayout class=" m-20"></StackLayout>
+              <StackLayout class=" m-20"></StackLayout>
               <Button class="-active h3" text="Ingresar" backgroundColor="#2ca52c" width="180" tap= "onTap"></Button>
         </StackLayout>
       </TabViewItem>
